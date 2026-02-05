@@ -1,0 +1,9 @@
+{
+	"name": "spotifydatafactorysagar",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56dcf890-e694-4b9d-87c4-8e2f7ca058bc",
+		"tenantId": "0b4edd59-b91e-48fe-be2e-335c78534736"
+	}
+}
