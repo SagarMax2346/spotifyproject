@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "spotifydatafactorysagar"
+		},
+		"SpotifyAzureSqlDatabase_password": {
+			"value": ""
+		},
+		"SpotifyAzurewrite_accountKey": {
+			"value": ""
+		},
+		"SpotifyAzureSqlDatabase_properties_typeProperties_server": {
+			"value": "spotifyprojectserversagar.database.windows.net"
+		},
+		"SpotifyAzureSqlDatabase_properties_typeProperties_database": {
+			"value": "spotifyprojectdbsagar"
+		},
+		"SpotifyAzureSqlDatabase_properties_typeProperties_userName": {
+			"value": "adminsagar"
+		},
+		"SpotifyAzurewrite_properties_typeProperties_url": {
+			"value": "https://spotifydatalakesagar.dfs.core.windows.net/"
+		}
+	}
+}
